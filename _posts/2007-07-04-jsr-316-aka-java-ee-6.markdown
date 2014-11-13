@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2007-07-04 17:10:29'
 layout: post
-slug: jsr-316-aka-java-ee-6
-status: publish
 title: JSR 316 a.ka Java EE 6
-wordpress_id: '106'
-categories:
-- java
-- JSR299 (webbeans)
 comments: true
 ---
 

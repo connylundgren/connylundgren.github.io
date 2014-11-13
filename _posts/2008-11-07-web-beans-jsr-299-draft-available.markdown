@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2008-11-07 20:17:06'
 layout: post
-slug: web-beans-jsr-299-draft-available
-status: publish
 title: Web Beans (JSR-299) draft available
-wordpress_id: '138'
-categories:
-- JSR299 (webbeans)
 comments: true
 ---
 

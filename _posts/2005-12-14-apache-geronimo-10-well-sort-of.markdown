@@ -2,8 +2,6 @@
 author: connylundgren
 date: '2005-12-14 11:58:50'
 layout: post
-slug: apache-geronimo-10-well-sort-of
-status: publish
 title: Apache Geronimo 1.0 (well sort of..)
 comments: true
 ---

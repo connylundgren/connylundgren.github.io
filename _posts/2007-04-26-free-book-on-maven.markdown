@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-04-26 11:03:04'
 layout: post
-slug: free-book-on-maven
-status: publish
 title: Free book on Maven
-wordpress_id: '103'
-categories:
-- java
 comments: true
 ---
 

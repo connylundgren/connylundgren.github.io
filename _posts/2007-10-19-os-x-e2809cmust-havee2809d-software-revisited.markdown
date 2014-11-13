@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-10-19 15:11:40'
 layout: post
-slug: os-x-%e2%80%9cmust-have%e2%80%9d-software-revisited
-status: publish
 title: OS X “must-have” software, revisited
-wordpress_id: '108'
-categories:
-- mac
 comments: true
 ---
 

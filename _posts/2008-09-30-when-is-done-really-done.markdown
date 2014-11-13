@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2008-09-30 14:23:02'
 layout: post
-slug: when-is-done-really-done
-status: publish
 title: When is done really done?
-wordpress_id: '135'
-categories:
-- agile
 comments: true
 ---
 

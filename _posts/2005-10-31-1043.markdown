@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-10-31 23:08:58'
 layout: post
-status: publish
 title: 10.4.3
 comments: true
 ---

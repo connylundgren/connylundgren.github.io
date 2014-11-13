@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="TODO: CHANGE! On Agile, Development, Mobile, Technology and life in general.">
+
+    <title>Weblogic 10 on OS X.. - refactor</title>
+
+    <link rel="canonical" href="http://refactor.se/2007/04/02/weblogic-10-on-os-x/">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/clean-blog.css">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+
+<body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">refactor</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                
+                <li>
+                    <a href="/about/">About</a>
+                </li>
+                
+                <li>
+                    <a href="/contact/">Contact</a>
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+
+    <!-- Post Header -->
+<header class="intro-header" style="background-image: url('/')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>Weblogic 10 on OS X..</h1>
+                    
+                    <span class="meta">Posted by connylundgren on April 2, 2007</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				<p>Weblogic, being one of the major player in the Java EE app server space <a href="http://www.bea.com/framework.jsp?CNT=pr01796.htm&amp;FP=/content/news_events/
+press_releases/2007">relea
+sed</a> the first fully
+<a href="http://java.sun.com/javaee/overview/compatibility.jsp">certified</a> final
+release last week (although a fully certified tech preview has been available
+for a while now.).</p>
+
+<p>Being a longtime Weblogic user (my current project using Weblogic 9.2 to name
+just one) I decided to give it a spin. Since BEA doesn’t support OS X I start
+out by making the beast run on my preferred platform, fortunately its quite
+easy, and I have previously blogged about it. So here is a quick recap for
+WLS10.</p>
+
+<p>Firstly <a href="http://commerce.bea.com/showproduct.jsp?family=WLS&amp;major=10
+&amp;minor=0">download</a> the HP-UX Itanium release (<em>server100_generic.jar</em>)</p>
+
+<p>Start the graphical installer by running</p>
+
+<blockquote>
+  <p>java -Dos.name=unix -jar server100_generic.jar</p>
+</blockquote>
+
+<p>One installed, go ahead and create a new domain (or upgrade an existing if
+thats your game), use the <strong><em>wlserver_10.0/common/bin/config.sh</em></strong> to start
+the wizard.</p>
+
+<p>Voila, your ready to go. Start the new domain and start playing around with
+WLS10.</p>
+
+<p>And of course, running Weblogic on OSX is not supported by BEA in any way.</p>
+
+<p>My next step is to evaluate the WLS10, to get to know it a bit better. Ill
+take a existing Java EE app and make it run on WLS 10 (The app is currently in
+production on JBoss AS, and I’ve previously “ported” it to Glassfish). So hand
+around for my observations. _ Note, by using this approach you will miss out
+on the platform dependent optimization (namely using native libraries, but
+this method has served me good in the past)._</p>
+
+<p>to be continued…</p>
+
+<p><strong>Update:</strong> It has come to my attention that the console may freeze (and the CPU jumps to 100%) when trying to login to the console (I didn’t run into it since I had made theese changes anyway). Change/add the following to _bin/setDomainEnv.sh _</p>
+
+<blockquote>
+  <p>USER_MEM_ARGS=”-Xms512m -Xmx1024m -XX:MaxPermSize=128m”</p>
+</blockquote>
+
+
+
+                <hr>
+
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="//2007/03/29/switched-feeds-to-feedburner/" data-toggle="tooltip" data-placement="top" title="Switched feeds to FeedBurner">&larr; Previous Post</a> 
+                    </li>
+                     
+                    
+                    <li class="next">
+                        <a href="//2007/04/26/free-book-on-maven/" data-toggle="tooltip" data-placement="top" title="Free book on Maven">Next Post &rarr;</a>
+                    </li>
+                     
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
+
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    <li>
+                        <a href="/feed.xml">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://twitter.com/connylundgren">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://www.facebook.com/lundgren.conny">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://www.linkedin.com/in/connylundgren">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://github.com/connylundgren">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                </ul>
+                <p class="copyright text-muted">Copyright &copy; refactor 2014</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js "></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/clean-blog.min.js "></script>
+
+
+</body>
+
+</html>

@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-09-28 22:50:26'
 layout: post
-slug: jboss-microsoft
 title: Jboss + Microsoft
 comments: true
 ---

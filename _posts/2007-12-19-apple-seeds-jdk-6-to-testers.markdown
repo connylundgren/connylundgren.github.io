@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2007-12-19 08:09:07'
 layout: post
-slug: apple-seeds-jdk-6-to-testers
-status: publish
 title: Apple seeds JDK 6 to testers
-wordpress_id: '115'
-categories:
-- java
-- mac osx
 comments: true
 ---
 

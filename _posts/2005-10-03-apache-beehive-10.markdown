@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-10-03 23:51:06'
 layout: post
-status: publish
 title: Apache Beehive 1.0
 comments: true
 ---

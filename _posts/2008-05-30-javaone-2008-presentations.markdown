@@ -2,14 +2,7 @@
 author: connylundgren
 date: '2008-05-30 14:18:58'
 layout: post
-slug: javaone-2008-presentations
-status: publish
 title: JavaOne 2008 presentations
-wordpress_id: '118'
-categories:
-- java
-tags:
-- javaone
 comments: true
 ---
 

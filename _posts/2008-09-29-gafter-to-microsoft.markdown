@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2008-09-29 15:27:55'
 layout: post
-slug: gafter-to-microsoft
-status: publish
 title: Gafter to Microsoft..
-wordpress_id: '132'
-categories:
-- general
-- java
 comments: true
 ---
 

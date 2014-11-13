@@ -5,8 +5,8 @@
     <description>TODO: CHANGE! On Agile, Development, Mobile, Technology and life in general.</description>
     <link>http://refactor.se/</link>
     <atom:link href="http://refactor.se/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Nov 2014 18:42:52 +0100</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 18:42:52 +0100</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 18:51:47 +0100</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 18:51:47 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -67,13 +67,9 @@ Download a 30day trial, or purchase a license
 
 </description>
         <pubDate>Fri, 07 Nov 2008 20:22:37 +0100</pubDate>
-        <link>http://refactor.se/ide,/idea/2008/11/07/intellij-idea-8-available/</link>
-        <guid isPermaLink="true">http://refactor.se/ide,/idea/2008/11/07/intellij-idea-8-available/</guid>
+        <link>http://refactor.se/2008/11/07/intellij-idea-8-available/</link>
+        <guid isPermaLink="true">http://refactor.se/2008/11/07/intellij-idea-8-available/</guid>
         
-        
-        <category>ide,</category>
-        
-        <category>idea</category>
         
       </item>
     
@@ -89,11 +85,9 @@ leave feedback)&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 07 Nov 2008 20:17:06 +0100</pubDate>
-        <link>http://refactor.se/jsr299%20(webbeans)/2008/11/07/web-beans-jsr-299-draft-available/</link>
-        <guid isPermaLink="true">http://refactor.se/jsr299%20(webbeans)/2008/11/07/web-beans-jsr-299-draft-available/</guid>
+        <link>http://refactor.se/2008/11/07/web-beans-jsr-299-draft-available/</link>
+        <guid isPermaLink="true">http://refactor.se/2008/11/07/web-beans-jsr-299-draft-available/</guid>
         
-        
-        <category>jsr299 (webbeans)</category>
         
       </item>
     
@@ -141,11 +135,9 @@ easily end up in “almost done” mode again.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 30 Sep 2008 14:23:02 +0200</pubDate>
-        <link>http://refactor.se/agile/2008/09/30/when-is-done-really-done/</link>
-        <guid isPermaLink="true">http://refactor.se/agile/2008/09/30/when-is-done-really-done/</guid>
+        <link>http://refactor.se/2008/09/30/when-is-done-really-done/</link>
+        <guid isPermaLink="true">http://refactor.se/2008/09/30/when-is-done-really-done/</guid>
         
-        
-        <category>agile</category>
         
       </item>
     
@@ -166,13 +158,9 @@ on C# and other languages. “&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 29 Sep 2008 15:27:55 +0200</pubDate>
-        <link>http://refactor.se/general/java/2008/09/29/gafter-to-microsoft/</link>
-        <guid isPermaLink="true">http://refactor.se/general/java/2008/09/29/gafter-to-microsoft/</guid>
+        <link>http://refactor.se/2008/09/29/gafter-to-microsoft/</link>
+        <guid isPermaLink="true">http://refactor.se/2008/09/29/gafter-to-microsoft/</guid>
         
-        
-        <category>general</category>
-        
-        <category>java</category>
         
       </item>
     
@@ -213,11 +201,9 @@ Check out the fresh release at &lt;a href=&quot;http://www.jetbrains.com/idea/ne
 
 </description>
         <pubDate>Thu, 14 Aug 2008 11:26:12 +0200</pubDate>
-        <link>http://refactor.se/ide,%20idea/2008/08/14/intellij-idea-8-milestone-1/</link>
-        <guid isPermaLink="true">http://refactor.se/ide,%20idea/2008/08/14/intellij-idea-8-milestone-1/</guid>
+        <link>http://refactor.se/2008/08/14/intellij-idea-8-milestone-1/</link>
+        <guid isPermaLink="true">http://refactor.se/2008/08/14/intellij-idea-8-milestone-1/</guid>
         
-        
-        <category>ide, idea</category>
         
       </item>
     
@@ -231,15 +217,9 @@ the main IDEA window, spaces works fine (although this is kind of hacky).&lt;/p&
 
 </description>
         <pubDate>Tue, 01 Jul 2008 07:49:19 +0200</pubDate>
-        <link>http://refactor.se/ide,%20idea/java/mac%20osx/2008/07/01/intellij-spaces-a-fix-kind-off/</link>
-        <guid isPermaLink="true">http://refactor.se/ide,%20idea/java/mac%20osx/2008/07/01/intellij-spaces-a-fix-kind-off/</guid>
+        <link>http://refactor.se/2008/07/01/intellij-spaces-a-fix-kind-off/</link>
+        <guid isPermaLink="true">http://refactor.se/2008/07/01/intellij-spaces-a-fix-kind-off/</guid>
         
-        
-        <category>ide, idea</category>
-        
-        <category>java</category>
-        
-        <category>mac osx</category>
         
       </item>
     
@@ -251,13 +231,9 @@ them
 
 </description>
         <pubDate>Fri, 30 May 2008 14:18:58 +0200</pubDate>
-        <link>http://refactor.se/java/2008/05/30/javaone-2008-presentations/</link>
-        <guid isPermaLink="true">http://refactor.se/java/2008/05/30/javaone-2008-presentations/</guid>
+        <link>http://refactor.se/2008/05/30/javaone-2008-presentations/</link>
+        <guid isPermaLink="true">http://refactor.se/2008/05/30/javaone-2008-presentations/</guid>
         
-        <category>javaone</category>
-        
-        
-        <category>java</category>
         
       </item>
     
@@ -275,13 +251,9 @@ hopefully it will get better tomorrow.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 05 May 2008 04:06:17 +0200</pubDate>
-        <link>http://refactor.se/java/2008/05/05/finally-there/</link>
-        <guid isPermaLink="true">http://refactor.se/java/2008/05/05/finally-there/</guid>
+        <link>http://refactor.se/2008/05/05/finally-there/</link>
+        <guid isPermaLink="true">http://refactor.se/2008/05/05/finally-there/</guid>
         
-        <category>javaone</category>
-        
-        
-        <category>java</category>
         
       </item>
     
@@ -303,13 +275,9 @@ included in the JDK.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 19 Dec 2007 08:09:07 +0100</pubDate>
-        <link>http://refactor.se/java/mac%20osx/2007/12/19/apple-seeds-jdk-6-to-testers/</link>
-        <guid isPermaLink="true">http://refactor.se/java/mac%20osx/2007/12/19/apple-seeds-jdk-6-to-testers/</guid>
+        <link>http://refactor.se/2007/12/19/apple-seeds-jdk-6-to-testers/</link>
+        <guid isPermaLink="true">http://refactor.se/2007/12/19/apple-seeds-jdk-6-to-testers/</guid>
         
-        
-        <category>java</category>
-        
-        <category>mac osx</category>
         
       </item>
     

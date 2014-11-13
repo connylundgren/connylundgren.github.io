@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2007-09-14 11:38:10'
 layout: post
-slug: netbeans-subversion-and-mac
-status: publish
 title: Netbeans, Subversion and Mac
-wordpress_id: '110'
-categories:
-- ide, netbeans
-- mac osx
 comments: true
 ---
 

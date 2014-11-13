@@ -2,14 +2,7 @@
 author: connylundgren
 date: '2008-07-01 07:49:19'
 layout: post
-slug: intellij-spaces-a-fix-kind-off
-status: publish
 title: IntelliJ & Spaces, a fix (kind off)
-wordpress_id: '119'
-categories:
-- ide, idea
-- java
-- mac osx
 comments: true
 ---
 

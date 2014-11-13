@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-12-02 10:18:20'
 layout: post
-status: publish
 title: SCEA - 1
 comments: true
 ---

@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-01-30 09:57:50'
 layout: post
-slug: practices-of-an-agile-developer-a-quick-review
-status: publish
 title: Practices of an Agile Developer, a quick review
-wordpress_id: '90'
-categories:
-- agile
 comments: true
 ---
 

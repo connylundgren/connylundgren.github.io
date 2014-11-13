@@ -2,16 +2,7 @@
 author: connylundgren
 date: '2007-10-23 09:55:22'
 layout: post
-slug: jsr-299-web-beans-early-draft
-status: publish
 title: JSR-299 Web Beans Early Draft
-wordpress_id: '112'
-categories:
-- JSR299 (webbeans)
-tags:
-- java
-- jsr299
-- webbeans
 comments: true
 ---
 

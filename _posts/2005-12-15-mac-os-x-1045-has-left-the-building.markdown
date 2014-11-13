@@ -2,8 +2,6 @@
 author: connylundgren
 date: '2005-12-15 09:43:39'
 layout: post
-slug: mac-os-x-1045-has-left-the-building
-status: publish
 title: Mac OS X 10.4.5 has left the building
 comments: true
 ---

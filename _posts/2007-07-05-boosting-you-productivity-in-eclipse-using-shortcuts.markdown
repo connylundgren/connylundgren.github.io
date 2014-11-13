@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-07-05 09:50:48'
 layout: post
-slug: boosting-you-productivity-in-eclipse-using-shortcuts
-status: publish
 title: Boosting you productivity in Eclipse using shortcuts
-wordpress_id: '105'
-categories:
-- ide, eclipse
 comments: true
 ---
 

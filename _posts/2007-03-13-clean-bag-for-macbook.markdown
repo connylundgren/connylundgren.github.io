@@ -2,14 +2,7 @@
 author: connylundgren
 date: '2007-03-13 17:35:19'
 layout: post
-slug: clean-bag-for-macbook
-status: publish
 title: Clean looking bag for MacBook
-wordpress_id: '98'
-categories:
-- gadgets
-- hardware
-- mac
 comments: true
 ---
 

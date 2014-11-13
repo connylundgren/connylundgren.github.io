@@ -2,14 +2,7 @@
 author: connylundgren
 date: '2008-05-05 04:06:17'
 layout: post
-slug: finally-there
-status: publish
 title: Finally there...
-wordpress_id: '116'
-categories:
-- java
-tags:
-- javaone
 comments: true
 ---
 

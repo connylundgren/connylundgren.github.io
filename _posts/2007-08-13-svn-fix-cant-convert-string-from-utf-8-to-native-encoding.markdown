@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-08-13 10:15:52'
 layout: post
-slug: svn-fix-cant-convert-string-from-utf-8-to-native-encoding
-status: publish
 title: 'SVN, Fix "Can''t convert string from ''UTF-8'' to native encoding:" '
-wordpress_id: '107'
-categories:
-- general
 comments: true
 ---
 

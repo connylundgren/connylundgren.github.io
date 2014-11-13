@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-03-02 19:50:31'
 layout: post
-slug: jsr299-session-at-javaone
-status: publish
 title: JSR299 Session at JavaOne
-wordpress_id: '97'
-categories:
-- JSR299 (webbeans)
 comments: true
 ---
 

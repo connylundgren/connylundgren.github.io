@@ -2,14 +2,7 @@
 author: connylundgren
 date: '2007-01-02 18:01:30'
 layout: post
-slug: mounting-mac-idisk-on-ubuntu
-status: publish
 title: Mounting .mac iDisk on Ubuntu
-wordpress_id: '85'
-categories:
-- linux
-- mac osx
-- ubuntu
 comments: true
 ---
 

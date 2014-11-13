@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2008-08-14 11:26:12'
 layout: post
-slug: intellij-idea-8-milestone-1
-status: publish
 title: IntelliJ IDEA 8 Milestone 1
-wordpress_id: '120'
-categories:
-- ide, idea
 comments: true
 ---
 

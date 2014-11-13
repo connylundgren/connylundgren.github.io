@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2007-03-19 20:51:24'
 layout: post
-slug: mobile-jsf-library
-status: publish
 title: Mobile JSF Library
-wordpress_id: '99'
-categories:
-- java
-- JSF
 comments: true
 ---
 

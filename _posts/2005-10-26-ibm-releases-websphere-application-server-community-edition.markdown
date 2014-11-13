@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-10-26 07:18:49'
 layout: post
-status: publish
 title: IBM releases WebSphere Application Server Community Edition
 comments: true
 ---

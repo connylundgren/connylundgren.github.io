@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2007-11-18 12:41:13'
 layout: post
-slug: leopard-trick-latest-app-doc-server-etc
-status: publish
 title: 'Leopard trick: Latest App, doc, server etc.'
-wordpress_id: '114'
-categories:
-- mac
-- mac osx
 comments: true
 ---
 

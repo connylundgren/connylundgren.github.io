@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2006-02-15 19:11:43'
 layout: post
-status: publish
 title: Java SE 6 goes to official beta
 comments: true
 ---

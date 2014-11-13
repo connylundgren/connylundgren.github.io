@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-09-03 18:54:03'
 layout: post
-slug: jsf-tags-reference
-status: publish
 title: JSF tags reference
-wordpress_id: '109'
-categories:
-- JSF
 comments: true
 ---
 

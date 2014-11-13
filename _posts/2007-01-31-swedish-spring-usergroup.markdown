@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-01-31 08:35:25'
 layout: post
-slug: swedish-spring-usergroup
-status: publish
 title: Swedish Spring usergroup
-wordpress_id: '91'
-categories:
-- java
 comments: true
 ---
 

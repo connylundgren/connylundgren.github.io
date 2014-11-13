@@ -2,15 +2,7 @@
 author: connylundgren
 date: '2007-10-26 09:25:02'
 layout: post
-slug: no-jdk6-with-os-x-105-leopard
-status: publish
 title: No JDK6 with OS X 10.5 Leopard
-wordpress_id: '113'
-categories:
-- java
-- mac osx
-tags:
-- osx leopard java jdk
 comments: true
 ---
 

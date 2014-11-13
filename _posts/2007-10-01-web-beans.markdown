@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-10-01 15:25:02'
 layout: post
-slug: web-beans
-status: publish
 title: Web Beans
-wordpress_id: '111'
-categories:
-- JSR299 (webbeans)
 comments: true
 ---
 

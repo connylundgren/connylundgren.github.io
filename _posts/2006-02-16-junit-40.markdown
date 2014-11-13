@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2006-02-16 20:26:35'
 layout: post
-status: publish
 title: JUnit 4.0
 comments: true
 ---

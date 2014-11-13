@@ -2,8 +2,6 @@
 author: connylundgren
 date: '2005-11-29 23:59:24'
 layout: post
-slug: firefox-15
-status: publish
 title: Firefox 1.5
 comments: true
 ---

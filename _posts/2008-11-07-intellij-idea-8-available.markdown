@@ -2,10 +2,7 @@
 author: connylundgren
 date: '2008-11-07 20:22:37'
 layout: post
-status: publish
 title: 'Intellij IDEA 8 available '
-categories:
-  ide, idea
 comments: true
 ---
 

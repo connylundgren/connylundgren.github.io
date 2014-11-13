@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-10-25 11:00:34'
 layout: post
-status: publish
 title: Bruce Tate and his monkey..
 comments: true
 ---

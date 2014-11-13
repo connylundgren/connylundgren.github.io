@@ -2,8 +2,6 @@
 author: connylundgren
 date: '2005-12-20 12:57:25'
 layout: post
-slug: the-voes-of-multi-ide-projects
-status: publish
 title: The voes of multi-IDE projects.
 comments: true
 ---

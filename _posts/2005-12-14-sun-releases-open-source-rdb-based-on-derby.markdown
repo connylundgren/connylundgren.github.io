@@ -2,8 +2,6 @@
 author: connylundgren
 date: '2005-12-14 16:34:48'
 layout: post
-slug: sun-releases-open-source-rdb-based-on-derby
-status: publish
 title: Sun releases Open Source RDB, based on Derby
 comments: true
 ---

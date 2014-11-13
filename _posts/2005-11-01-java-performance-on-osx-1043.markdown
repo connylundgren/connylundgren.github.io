@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-11-01 08:29:54'
 layout: post
-status: publish
 title: Java performance on OSX (10.4.3)
 comments: true
 ---

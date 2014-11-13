@@ -2,8 +2,6 @@
 author: connylundgren
 date: '2005-12-13 12:39:27'
 layout: post
-slug: oracle-to-donate-their-jsf-implementation
-status: publish
 title: Oracle to donate their JSF implementation
 comments: true
 ---

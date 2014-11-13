@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-12-21 11:20:44'
 layout: post
-status: publish
 title: JSR220 hits final draft
 comments: true
 ---

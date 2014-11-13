@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-12-19 05:01:16'
 layout: post
-status: publish
 title: Java and PHP integration
 comments: true
 ---

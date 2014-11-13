@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-02-22 15:46:50'
 layout: post
-slug: next-javaforum-in-malmo
-status: publish
 title: Next JavaForum in Malmö
-wordpress_id: '92'
-categories:
-- java
 comments: true
 ---
 

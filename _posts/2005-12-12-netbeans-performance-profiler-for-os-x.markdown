@@ -2,8 +2,6 @@
 author: connylundgren
 date: '2005-12-12 00:51:03'
 layout: post
-slug: netbeans-performance-profiler-for-os-x
-status: publish
 title: Netbeans Performance Profiler, for OS X
 comments: true
 ---

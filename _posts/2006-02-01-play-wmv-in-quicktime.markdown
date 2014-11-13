@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2006-02-01 10:38:05'
 layout: post
-status: publish
 title: 'Play WMV in Quicktime '
 comments: true
 ---

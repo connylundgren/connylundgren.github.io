@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-02-25 15:22:48'
 layout: post
-slug: moved-the-blog-or-atleast-tried-to-3
-status: publish
 title: Moved the blog, or atleast tried to..
-wordpress_id: '95'
-categories:
-- general
 comments: true
 ---
 

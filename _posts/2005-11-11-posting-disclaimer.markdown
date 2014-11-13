@@ -2,8 +2,6 @@
 author: connylundgren
 date: '2005-11-11 11:55:00'
 layout: post
-slug: posting-disclaimer
-status: publish
 title: Posting Disclaimer
 comments: true
 ---

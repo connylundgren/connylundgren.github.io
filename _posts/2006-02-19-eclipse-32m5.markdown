@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2006-02-19 14:49:51'
 layout: post
-status: publish
 title: Eclipse 3.2M5
 comments: true
 ---

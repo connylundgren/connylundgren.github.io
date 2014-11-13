@@ -2,8 +2,6 @@
 author: connylundgren
 date: '2005-09-28 22:34:51'
 layout: post
-slug: netbeans-5-beta
-status: publish
 title: NetBeans 5 Beta
 comments: true
 ---

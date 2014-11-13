@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2007-03-29 10:56:20'
 layout: post
-slug: switched-feeds-to-feedburner
-status: publish
 title: Switched feeds to FeedBurner
-wordpress_id: '101'
-categories:
-- general
 comments: true
 ---
 

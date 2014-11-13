@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2007-04-02 19:28:13'
 layout: post
-slug: weblogic-10-on-os-x
-status: publish
 title: Weblogic 10 on OS X..
-wordpress_id: '102'
-categories:
-- java
-- mac osx
 comments: true
 ---
 

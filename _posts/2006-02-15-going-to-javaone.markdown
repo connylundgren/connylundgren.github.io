@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2006-02-15 19:12:16'
 layout: post
-status: publish
 title: Going to JavaOne..
 comments: true
 ---
