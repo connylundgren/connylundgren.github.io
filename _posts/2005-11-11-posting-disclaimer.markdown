@@ -5,9 +5,6 @@ layout: post
 slug: posting-disclaimer
 status: publish
 title: Posting Disclaimer
-wordpress_id: '3'
-categories:
-- general
 comments: true
 ---
 

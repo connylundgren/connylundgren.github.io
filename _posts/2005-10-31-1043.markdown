@@ -2,12 +2,8 @@
 author: connylundgren
 date: '2005-10-31 23:08:58'
 layout: post
-slug: '1043'
 status: publish
 title: 10.4.3
-wordpress_id: '15'
-categories:
-- mac osx
 comments: true
 ---
 

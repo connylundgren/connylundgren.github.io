@@ -5,9 +5,6 @@ layout: post
 slug: the-voes-of-multi-ide-projects
 status: publish
 title: The voes of multi-IDE projects.
-wordpress_id: '10'
-categories:
-- general
 comments: true
 ---
 

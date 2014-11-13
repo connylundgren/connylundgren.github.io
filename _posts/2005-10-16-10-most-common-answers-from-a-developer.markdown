@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-10-16 06:42:55'
 layout: post
-status: publish
 title: 10 most common answers from a developer
 comments: true
 ---

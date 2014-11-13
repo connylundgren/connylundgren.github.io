@@ -2,7 +2,6 @@
 author: connylundgren
 date: '2005-10-25 10:53:22'
 layout: post
-slug: mysql-50
 status: publish
 title: MySQL 5.0
 comments: true

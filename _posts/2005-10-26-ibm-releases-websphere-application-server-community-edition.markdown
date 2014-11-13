@@ -2,13 +2,8 @@
 author: connylundgren
 date: '2005-10-26 07:18:49'
 layout: post
-slug: ibm-releases-websphere-application-server-community-edition
 status: publish
 title: IBM releases WebSphere Application Server Community Edition
-wordpress_id: '42'
-categories:
-- java
-- open source
 comments: true
 ---
 

@@ -2,12 +2,8 @@
 author: connylundgren
 date: '2005-12-02 10:18:20'
 layout: post
-slug: scea-1
 status: publish
 title: SCEA - 1
-wordpress_id: '8'
-categories:
-- general
 comments: true
 ---
 

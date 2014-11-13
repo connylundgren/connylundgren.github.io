@@ -5,10 +5,6 @@ layout: post
 slug: oracle-to-donate-their-jsf-implementation
 status: publish
 title: Oracle to donate their JSF implementation
-wordpress_id: '40'
-categories:
-- java
-- JSF
 comments: true
 ---
 

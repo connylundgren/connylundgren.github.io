@@ -5,9 +5,6 @@ layout: post
 slug: sun-releases-open-source-rdb-based-on-derby
 status: publish
 title: Sun releases Open Source RDB, based on Derby
-wordpress_id: '39'
-categories:
-- java
 comments: true
 ---
 

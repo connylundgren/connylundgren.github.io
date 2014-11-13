@@ -5,9 +5,6 @@ layout: post
 slug: firefox-15
 status: publish
 title: Firefox 1.5
-wordpress_id: '11'
-categories:
-- open source
 comments: true
 ---
 

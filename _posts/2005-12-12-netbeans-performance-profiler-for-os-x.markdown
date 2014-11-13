@@ -5,10 +5,6 @@ layout: post
 slug: netbeans-performance-profiler-for-os-x
 status: publish
 title: Netbeans Performance Profiler, for OS X
-wordpress_id: '41'
-categories:
-- java
-- mac osx
 comments: true
 ---
 

@@ -5,9 +5,6 @@ layout: post
 slug: apache-geronimo-10-well-sort-of
 status: publish
 title: Apache Geronimo 1.0 (well sort of..)
-wordpress_id: '38'
-categories:
-- java
 comments: true
 ---
 

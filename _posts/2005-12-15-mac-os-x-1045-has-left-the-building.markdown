@@ -5,9 +5,6 @@ layout: post
 slug: mac-os-x-1045-has-left-the-building
 status: publish
 title: Mac OS X 10.4.5 has left the building
-wordpress_id: '19'
-categories:
-- mac osx
 comments: true
 ---
 
