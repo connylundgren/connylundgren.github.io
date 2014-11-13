@@ -2,15 +2,7 @@
 author: connylundgren
 date: '2006-11-22 12:44:34'
 layout: post
-slug: minor-update
-status: publish
 title: Minor update..
-wordpress_id: '74'
-categories:
-- general
-- java
-- JSF
-- JSR299 (webbeans)
 comments: true
 ---
 

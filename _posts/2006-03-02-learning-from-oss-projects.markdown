@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-03-02 23:25:01'
 layout: post
-slug: learning-from-oss-projects
-status: publish
 title: Learning from OSS projects?
-wordpress_id: '7'
-categories:
-- general
 comments: true
 ---
 

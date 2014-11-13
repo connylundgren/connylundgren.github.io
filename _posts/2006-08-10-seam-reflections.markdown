@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-08-10 14:06:12'
 layout: post
-slug: seam-reflections
-status: publish
 title: Seam reflections
-wordpress_id: '50'
-categories:
-- java
-- seam
 comments: true
 ---
 

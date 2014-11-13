@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-02-21 20:55:43'
 layout: post
-slug: java-ee-5-preview-and-netbeans-pack
-status: publish
 title: Java EE 5 preview and NetBeans pack.
-wordpress_id: '25'
-categories:
-- java
-- open source
 comments: true
 ---
 

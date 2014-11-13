@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-12-03 15:25:06'
 layout: post
-slug: facelets-1112-released
-status: publish
 title: Facelets 1.1.12 Released
-wordpress_id: '80'
-categories:
-- java
-- JSF
 comments: true
 ---
 

@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-01-04 18:54:27'
 layout: post
-slug: jboss-eclipse-ide-15
-status: publish
 title: JBoss Eclipse IDE 1.5
-wordpress_id: '34'
-categories:
-- java
-comments: true
 ---
 
 The JBoss Group has announced the release of version 1.5 of their JBoss

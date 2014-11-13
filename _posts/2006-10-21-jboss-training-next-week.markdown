@@ -2,14 +2,7 @@
 author: connylundgren
 date: '2006-10-21 18:47:17'
 layout: post
-slug: jboss-training-next-week
-status: publish
 title: JBoss training next week
-wordpress_id: '67'
-categories:
-- general
-- java
-- open source
 comments: true
 ---
 

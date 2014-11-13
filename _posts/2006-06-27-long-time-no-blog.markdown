@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-06-27 19:07:20'
 layout: post
-slug: long-time-no-blog
-status: publish
 title: Long time, no blog..
-wordpress_id: '47'
-categories:
-- general
 comments: true
 ---
 

@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-03-02 10:33:13'
 layout: post
-slug: a-couple-of-os-x-updates
-status: publish
 title: A couple of OS X updates
-wordpress_id: '17'
-categories:
-- mac osx
 comments: true
 ---
 

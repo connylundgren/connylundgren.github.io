@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="TODO: CHANGE! On Agile, Development, Mobile, Technology and life in general.">
+
+    <title>Tapestry 4.0 - refactor</title>
+
+    <link rel="canonical" href="http://refactor.se/2006/01/09/tapestry-40/">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/clean-blog.css">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
+
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+
+<body>
+
+    <!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">refactor</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="/">Home</a>
+                </li>
+                
+                <li>
+                    <a href="/about/">About</a>
+                </li>
+                
+                <li>
+                    <a href="/contact/">Contact</a>
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+                <li>
+                    
+                </li>
+                
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+
+    <!-- Post Header -->
+<header class="intro-header" style="background-image: url('/')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>Tapestry 4.0</h1>
+                    
+                    <span class="meta">Posted by connylundgren on January 9, 2006</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				<p>After some major work (almost 2 years of development) the Tapestry team has
+released the next major version of the framework (4.0).</p>
+
+<p>Among the features of 4.0 are</p>
+
+<ul>
+  <li>The new 4.0 specification DTDs have been simplified.</li>
+  <li>The syntax used for binding parameters inside an HTML template and inside an XML specification is now consistent. Both make use of the binding prefixes.</li>
+  <li>“Friendly” URLs (that is, URLs that pack more information into the path and less into query parameters) are built in. This makes it easy to divide your application across many folders (reducing clutter), and leverage J2EE declarative security along the way.</li>
+  <li>Listener methods are much easier and more flexible; listener parameters in the URL are automatically mapped to listener method parameters, and listener methods can return the page name or page instance to activate.</li>
+  <li>Component parameters now <em>just work</em>, without having to worry about “direction”.</li>
+  <li>Applications can now have a global message catalog, in addition to per-page and per-component message catalogs. Messages not found in the component message catalog are searched for in the application catalog.</li>
+  <li>Full, native support for <a href="http://blog.refactor.se:81/tapestry-portlet/index.html">developing JSR-168 Portlets</a> has been added.</li>
+  <li>Tapestry 4.0 makes much less use of reflection and <a href="http://www.ognl.org">OGNL</a> than Tapestry 3.0; partly because there are many new <a href="http://blog.refactor.se:81/UsersGuide/bindings.html">binding prefixes</a> and largely because of how parameters are now implemented.</li>
+  <li>HiveMind services and <a href="http://springframework.org/">Spring</a> beans can be directly injected into page and component classes.</li>
+  <li>Tapestry 4.0 includes optional <a href="http://blog.refactor.se:81/tapestry-annotations/index.html">JDK 1.5 annotation support</a> (but Tapestry still works with <a href="http://blog.refactor.se:81/dependencies.html">JDK 1.3</a>).</li>
+  <li>Tapestry 4.0 debuts a new and much more sophisticated user input validation subsystem. Thanks Paul!</li>
+  <li>Line precise error reporting can now display the contents of files containing errors.</li>
+  <li>Forms can now be canceled, bypassing client-side validation logic, and invoking an alternate listener on the server-side.</li>
+  <li>You are no longer limited to just Global and Visit; you can have as many <a href="http://blog.refactor.se:81/UsersGuide/state.html#state.aso">application state objects</a> as you like.</li>
+  <li>The use of <a href="http://jakarta.apache.org/hivemind/">HiveMind</a> under the covers means that Tapestry can be easily customized to fit your needs.</li>
+  <li>Page properties can now be persisted on the client, as well as in the session.</li>
+  <li>Components and component parameters can now be marked as deprecated. Component parameters may have aliases (used when renaming a parameter).
+The most anticipated features (atleast from my point of view) is the support
+of annotations, cutting back on XML configuration is a good thing IMHO.</li>
+</ul>
+
+<p>To summarize, this release focus on reducing code and complexity.</p>
+
+<p>I will upgrade some applications i have running on Tapestry 3.x soon, should
+be a exciting experience.</p>
+
+
+
+                <hr>
+
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="//2006/01/04/jboss-eclipse-ide-15/" data-toggle="tooltip" data-placement="top" title="JBoss Eclipse IDE 1.5">&larr; Previous Post</a> 
+                    </li>
+                     
+                    
+                    <li class="next">
+                        <a href="//2006/02/01/interesting-opinions-on-spring/" data-toggle="tooltip" data-placement="top" title="Interesting opinions on Spring">Next Post &rarr;</a>
+                    </li>
+                     
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>
+
+    <!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <ul class="list-inline text-center">
+                    <li>
+                        <a href="/feed.xml">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="https://twitter.com/connylundgren">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://www.facebook.com/lundgren.conny">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://www.linkedin.com/in/connylundgren">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a href="https://github.com/connylundgren">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                </ul>
+                <p class="copyright text-muted">Copyright &copy; refactor 2014</p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- jQuery -->
+<script src="/js/jquery.min.js "></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="/js/bootstrap.min.js "></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="/js/clean-blog.min.js "></script>
+
+
+</body>
+
+</html>

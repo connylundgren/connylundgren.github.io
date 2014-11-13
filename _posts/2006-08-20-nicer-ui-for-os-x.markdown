@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-08-20 13:19:43'
 layout: post
-slug: nicer-ui-for-os-x
-status: publish
 title: Nicer UI for OS X
-wordpress_id: '55'
-categories:
-- mac osx
 comments: true
 ---
 

@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-02-02 09:45:06'
 layout: post
-slug: netbeans-ide-50-final-released
-status: publish
 title: NetBeans IDE 5.0 Final Released
-wordpress_id: '31'
-categories:
-- java
 comments: true
 ---
 

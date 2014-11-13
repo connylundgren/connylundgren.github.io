@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-08-13 10:47:13'
 layout: post
-slug: got-the-m600i
-status: publish
 title: Got the M600I
-wordpress_id: '52'
-categories:
-- gadgets
-- tech
 comments: true
 ---
 

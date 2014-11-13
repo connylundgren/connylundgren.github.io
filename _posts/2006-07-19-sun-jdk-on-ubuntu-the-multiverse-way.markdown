@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-07-19 13:33:46'
 layout: post
-slug: sun-jdk-on-ubuntu-the-multiverse-way
-status: publish
 title: Sun JDK on Ubuntu (The multiverse way)
-wordpress_id: '48'
-categories:
-- java
-- linux
 comments: true
 ---
 

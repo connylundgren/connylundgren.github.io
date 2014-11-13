@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-09-12 17:59:48'
 layout: post
-slug: javadoc-the-web20-way
-status: publish
 title: Javadoc the Web2.0 way
-wordpress_id: '63'
-categories:
-- java
 comments: true
 ---
 

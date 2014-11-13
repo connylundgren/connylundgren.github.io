@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-11-13 16:23:34'
 layout: post
-slug: questions-about-open-source-java-this-podcast-may-have-the-answers
-status: publish
 title: Questions about Open Source Java? This Podcast may have the answers!
-wordpress_id: '71'
-categories:
-- general
 comments: true
 ---
 

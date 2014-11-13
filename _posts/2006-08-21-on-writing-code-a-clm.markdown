@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-08-21 16:19:08'
 layout: post
-slug: on-writing-code-a-clm
-status: publish
 title: On writing code, a CLM?
-wordpress_id: '56'
-categories:
-- general
 comments: true
 ---
 

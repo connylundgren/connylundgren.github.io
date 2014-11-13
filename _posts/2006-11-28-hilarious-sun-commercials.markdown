@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-11-28 20:47:13'
 layout: post
-slug: hilarious-sun-commercials
-status: publish
 title: Hilarious Sun commercials
-wordpress_id: '75'
-categories:
-- humor
 comments: true
 ---
 

@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-11-22 12:04:34'
 layout: post
-slug: seam-11cr1
-status: publish
 title: Seam 1.1CR1
-wordpress_id: '73'
-categories:
-- java
-- seam
 comments: true
 ---
 

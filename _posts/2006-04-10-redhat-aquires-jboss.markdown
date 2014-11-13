@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-04-10 22:37:20'
 layout: post
-slug: redhat-aquires-jboss
-status: publish
 title: RedHat aquires JBoss
-wordpress_id: '14'
-categories:
-- open source
 comments: true
 ---
 

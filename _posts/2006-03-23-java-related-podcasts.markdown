@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-03-23 17:59:37'
 layout: post
-slug: java-related-podcasts
-status: publish
 title: Java related podcasts
-wordpress_id: '24'
-categories:
-- java
 comments: true
 ---
 

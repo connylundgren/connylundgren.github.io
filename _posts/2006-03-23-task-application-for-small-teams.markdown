@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-03-23 12:47:34'
 layout: post
-slug: task-application-for-small-teams
-status: publish
 title: 'Task-application for small teams? '
-wordpress_id: '9'
-categories:
-- general
 comments: true
 ---
 

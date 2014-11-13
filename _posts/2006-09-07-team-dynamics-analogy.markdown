@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-09-07 02:43:38'
 layout: post
-slug: team-dynamics-analogy
-status: publish
 title: Team dynamics analogy
-wordpress_id: '61'
-categories:
-- general
 comments: true
 ---
 

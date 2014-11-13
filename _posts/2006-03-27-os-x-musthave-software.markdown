@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-03-27 23:12:21'
 layout: post
-slug: os-x-musthave-software
-status: publish
 title: OS X "musthave" software
-wordpress_id: '20'
-categories:
-- mac osx
 comments: true
 ---
 

@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-09-07 02:51:53'
 layout: post
-slug: ci-server-comparison
-status: publish
 title: CI server comparison
-wordpress_id: '62'
-categories:
-- java
-- open source
 comments: true
 ---
 

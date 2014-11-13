@@ -2,12 +2,8 @@
 author: connylundgren
 date: '2006-02-01 10:38:05'
 layout: post
-slug: play-wmv-in-quicktime
 status: publish
 title: 'Play WMV in Quicktime '
-wordpress_id: '21'
-categories:
-- mac osx
 comments: true
 ---
 

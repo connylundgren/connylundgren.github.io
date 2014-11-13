@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-02-13 20:49:30'
 layout: post
-slug: manifestmf-classpath-from-ant
-status: publish
 title: MANIFEST.MF Classpath from ANT
-wordpress_id: '30'
-categories:
-- java
 comments: true
 ---
 

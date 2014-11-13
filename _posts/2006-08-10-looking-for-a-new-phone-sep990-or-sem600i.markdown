@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-08-10 15:49:53'
 layout: post
-slug: looking-for-a-new-phone-sep990-or-sem600i
-status: publish
 title: Looking for a new phone (SEP990 or SEM600I?)
-wordpress_id: '51'
-categories:
-- gadgets
-- tech
 comments: true
 ---
 

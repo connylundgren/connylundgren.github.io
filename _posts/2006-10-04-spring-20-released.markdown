@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-10-04 06:54:50'
 layout: post
-slug: spring-20-released
-status: publish
 title: Spring 2.0 Released
-wordpress_id: '65'
-categories:
-- java
 comments: true
 ---
 

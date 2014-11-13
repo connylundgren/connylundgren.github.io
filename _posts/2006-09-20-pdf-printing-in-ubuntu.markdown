@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-09-20 07:59:14'
 layout: post
-slug: pdf-printing-in-ubuntu
-status: publish
 title: PDF Printing in Ubuntu
-wordpress_id: '64'
-categories:
-- linux
-- ubuntu
 comments: true
 ---
 

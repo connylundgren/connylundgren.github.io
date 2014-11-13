@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-12-12 13:38:22'
 layout: post
-slug: go-with-pro-or%e2%80%a6
-status: publish
 title: Go with Pro, or…
-wordpress_id: '82'
-categories:
-- gadgets
-- mac osx
 comments: true
 ---
 

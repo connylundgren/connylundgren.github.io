@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-10-24 18:33:21'
 layout: post
-slug: 30sec-subversion-setup
-status: publish
 title: 30sec Subversion setup
-wordpress_id: '68'
-categories:
-- general
 comments: true
 ---
 

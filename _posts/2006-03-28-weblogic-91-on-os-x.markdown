@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-03-28 23:15:22'
 layout: post
-slug: weblogic-91-on-os-x
-status: publish
 title: Weblogic 9.1 on OS X
-wordpress_id: '23'
-categories:
-- java
-- mac osx
 comments: true
 ---
 

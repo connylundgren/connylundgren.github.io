@@ -2,12 +2,8 @@
 author: connylundgren
 date: '2006-02-19 14:49:51'
 layout: post
-slug: eclipse-32m5
 status: publish
 title: Eclipse 3.2M5
-wordpress_id: '26'
-categories:
-- java
 comments: true
 ---
 

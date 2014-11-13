@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-10-25 17:20:09'
 layout: post
-slug: java-ee-app-servers-time-to-market
-status: publish
 title: Java EE App servers, time to market?
-wordpress_id: '69'
-categories:
-- java
 comments: true
 ---
 

@@ -2,13 +2,7 @@
 author: connylundgren
 date: '2006-08-15 07:42:51'
 layout: post
-slug: sun-on-the-open-source-plans
-status: publish
 title: Sun on the Open source plans
-wordpress_id: '54'
-categories:
-- java
-- open source
 comments: true
 ---
 

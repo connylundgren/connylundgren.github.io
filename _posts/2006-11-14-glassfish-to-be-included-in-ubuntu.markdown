@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-11-14 05:05:41'
 layout: post
-slug: glassfish-to-be-included-in-ubuntu
-status: publish
 title: 'Glassfish to be included in Ubuntu '
-wordpress_id: '72'
-categories:
-- java
 comments: true
 ---
 

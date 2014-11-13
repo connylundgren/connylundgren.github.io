@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-02-01 09:41:45'
 layout: post
-slug: interesting-opinions-on-spring
-status: publish
 title: Interesting opinions on Spring
-wordpress_id: '32'
-categories:
-- java
 comments: true
 ---
 

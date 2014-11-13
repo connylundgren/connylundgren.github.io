@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-11-08 13:45:56'
 layout: post
-slug: java-5-for-each-loop
-status: publish
 title: Java 5 for-each-loop
-wordpress_id: '70'
-categories:
-- java
 comments: true
 ---
 

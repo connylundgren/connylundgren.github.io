@@ -2,12 +2,8 @@
 author: connylundgren
 date: '2006-02-16 20:26:35'
 layout: post
-slug: junit-40
 status: publish
 title: JUnit 4.0
-wordpress_id: '27'
-categories:
-- java
 comments: true
 ---
 

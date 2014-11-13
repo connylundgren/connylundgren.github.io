@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-04-04 12:56:33'
 layout: post
-slug: '1046'
-status: publish
 title: 10.4.6
-wordpress_id: '16'
-categories:
-- mac osx
 comments: true
 ---
 

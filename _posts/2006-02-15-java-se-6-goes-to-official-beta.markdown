@@ -2,12 +2,8 @@
 author: connylundgren
 date: '2006-02-15 19:11:43'
 layout: post
-slug: java-se-6-goes-to-official-beta
 status: publish
 title: Java SE 6 goes to official beta
-wordpress_id: '29'
-categories:
-- java
 comments: true
 ---
 

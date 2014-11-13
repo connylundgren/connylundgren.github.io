@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-01-09 14:10:46'
 layout: post
-slug: tapestry-40
-status: publish
 title: Tapestry 4.0
-wordpress_id: '33'
-categories:
-- java
 comments: true
 ---
 

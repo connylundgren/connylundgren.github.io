@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-07-31 21:02:13'
 layout: post
-slug: remove-duplicates
-status: publish
 title: Remove duplicates
-wordpress_id: '49'
-categories:
-- java
 comments: true
 ---
 

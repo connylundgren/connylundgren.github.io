@@ -2,12 +2,7 @@
 author: connylundgren
 date: '2006-12-12 07:41:17'
 layout: post
-slug: the-mustang-is-loose
-status: publish
 title: The Mustang is loose..
-wordpress_id: '81'
-categories:
-- java
 comments: true
 ---
 
