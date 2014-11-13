@@ -4,7 +4,7 @@ author: connylundgren
 date: 2008-12-05 08:49:48
 title: "JBoss AS 5 is here!"
 comments: true
-header-img: "img/post-bg-06.jpg"
+header-img: "img/post-bg-01.jpg"
 ---
 
 The long awaited Jboss 5 Application Server is finally here, It seems to have
