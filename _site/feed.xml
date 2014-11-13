@@ -5,8 +5,8 @@
     <description>TODO: CHANGE! On Agile, Development, Mobile, Technology and life in general.</description>
     <link>http://refactor.se/</link>
     <atom:link href="http://refactor.se/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 13 Nov 2014 16:49:49 +0100</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2014 16:49:49 +0100</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2014 18:26:08 +0100</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2014 18:26:08 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -26,17 +26,290 @@ been released just now since there are only 138 downloads of the binary.&lt;/p&g
       </item>
     
       <item>
-        <title>30sec-subversion-setup</title>
-        <description>&lt;p&gt;I also suffer from the same syndrome as
-&lt;a href=&quot;http://shanebell.blogspot.com/&quot;&gt;Shane&lt;/a&gt;, so I post a &lt;a href=&quot;http://shanebell.blogspot.com/2006/10/subversion-30-second-guide.html&quot;&gt;link
-here&lt;/a&gt;
-for his easy and fast setup of a SVN repository.&lt;/p&gt;
+        <title>Intellij IDEA 8 available </title>
+        <description>&lt;p&gt;I have been using the milestone for quite a while, and I believe there are
+huge improvements over the earlier versions.&lt;/p&gt;
+
+&lt;p&gt;Highlights in the 8.0 release are..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages &amp;amp; Frameworks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SQL-92, MySQL, SQLite with coding assistance and Console to run SQL scripts from the IDE&lt;/li&gt;
+  &lt;li&gt;Template languages: FreeMarker, Velocity&lt;/li&gt;
+  &lt;li&gt;XPath/XSLT, including XPath expression evaluation&lt;/li&gt;
+  &lt;li&gt;Groovy/Grails with advanced editing, new refactorings and Gant&lt;/li&gt;
+  &lt;li&gt;JBoss Seam&lt;/li&gt;
+  &lt;li&gt;Struts 2&lt;/li&gt;
+  &lt;li&gt;Spring 2.5&lt;/li&gt;
+  &lt;li&gt;Spring Webflow&lt;/li&gt;
+  &lt;li&gt;Spring MVC&lt;/li&gt;
+  &lt;li&gt;Spring Dynamic Modules&lt;/li&gt;
+  &lt;li&gt;GWT 1.5&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;RESTful WebServices
+&lt;strong&gt;Features &amp;amp; Improvements&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;7 New Java Refactorings&lt;/li&gt;
+  &lt;li&gt;Dataflow to This — see where an arbitrary parameter value comes from&lt;/li&gt;
+  &lt;li&gt;Create new test for class intention and navigation between classes/tests&lt;/li&gt;
+  &lt;li&gt;UML class diagrams with navigation to the source code and refactorings&lt;/li&gt;
+  &lt;li&gt;Thread dump analyzer&lt;/li&gt;
+  &lt;li&gt;Automatic namespace import for HTML/XML/JSP&lt;/li&gt;
+  &lt;li&gt;JavaScript debugger&lt;/li&gt;
+  &lt;li&gt;Flex debugger&lt;/li&gt;
+  &lt;li&gt;Advanced Flex code editor for MXML and ActionScript files, with Flash 10 generics&lt;/li&gt;
+  &lt;li&gt;Maven: create new module from archetype, Repository Browser, pom.xml validation and editing assistance&lt;/li&gt;
+  &lt;li&gt;Subversion 1.5 merge tracking support
+Download a 30day trial, or purchase a license
+&lt;a href=&quot;http://www.jetbrains.com/idea/download/index.html?top&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
-        <pubDate>Tue, 24 Oct 2006 18:33:21 +0200</pubDate>
-        <link>http://refactor.se/2006/10/24/30sec-subversion-setup/</link>
-        <guid isPermaLink="true">http://refactor.se/2006/10/24/30sec-subversion-setup/</guid>
+        <pubDate>Fri, 07 Nov 2008 20:22:37 +0100</pubDate>
+        <link>http://refactor.se/ide,/idea/2008/11/07/intellij-idea-8-available/</link>
+        <guid isPermaLink="true">http://refactor.se/ide,/idea/2008/11/07/intellij-idea-8-available/</guid>
         
+        
+        <category>ide,</category>
+        
+        <category>idea</category>
+        
+      </item>
+    
+      <item>
+        <title>Web Beans (JSR-299) draft available</title>
+        <description>&lt;p&gt;The JSR299 draft is now available for public review, have a look at it (and
+leave feedback)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://jcp.org/en/jsr/detail?id=299&quot;&gt;http://jcp.org/en/jsr/detail?id=299&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Your comments are welcomed, send them to
+&lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#115;&amp;#114;&amp;#045;&amp;#050;&amp;#057;&amp;#057;&amp;#045;&amp;#099;&amp;#111;&amp;#109;&amp;#109;&amp;#101;&amp;#110;&amp;#116;&amp;#115;&amp;#064;&amp;#106;&amp;#099;&amp;#112;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&quot;&gt;&amp;#106;&amp;#115;&amp;#114;&amp;#045;&amp;#050;&amp;#057;&amp;#057;&amp;#045;&amp;#099;&amp;#111;&amp;#109;&amp;#109;&amp;#101;&amp;#110;&amp;#116;&amp;#115;&amp;#064;&amp;#106;&amp;#099;&amp;#112;&amp;#046;&amp;#111;&amp;#114;&amp;#103;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 07 Nov 2008 20:17:06 +0100</pubDate>
+        <link>http://refactor.se/jsr299%20(webbeans)/2008/11/07/web-beans-jsr-299-draft-available/</link>
+        <guid isPermaLink="true">http://refactor.se/jsr299%20(webbeans)/2008/11/07/web-beans-jsr-299-draft-available/</guid>
+        
+        
+        <category>jsr299 (webbeans)</category>
+        
+      </item>
+    
+      <item>
+        <title>When is done really done?</title>
+        <description>&lt;p&gt;I don’t matter if you work agile or in waterfall (or any other “process” for
+that matter), one of the most important bits of practice a team (even if you
+are coding solo) should get in place is a &lt;em&gt;Definition Of Done&lt;/em&gt;. The DoD should
+be very obvious to everyone involved, and if anyone (including yourself) tries
+to stray from the DoD they should be flogged in public (corporate policies may
+get in the way here..).&lt;/p&gt;
+
+&lt;p&gt;So why is this definition so important? Let us start with an example I
+encountered a while ago.&lt;/p&gt;
+
+&lt;p&gt;On one of my project there was this developer let us call him “Fred”,
+initially things were looking ok, he delivered what was promised, and on
+inspection the code looked OK (Fred was no wizard, but a fair developer).&lt;/p&gt;
+
+&lt;p&gt;Fred got the responsibility to implement a certain part of the project, and
+off he went, when asked about the progress there was always a good answer,
+like “I’m testing the implementation” or “I found a bug which I am current
+fixing”. Fred delivered his part of the application, and when integrated they
+didn’t work. How could that be? We had all seen him write unit-tests? I sat
+down and asked Fred what he thought was wrong, and he told me his story. It
+turned out he had written a fairly large test suit, but when asked if it has
+ever been “working” I got shocked, Fred told me he had never actually run his
+test-suite, he had just wrote a whole bunch of test code, but never ever
+executed it.&lt;/p&gt;
+
+&lt;p&gt;Although this is an extreme case (nonetheless true), it shows how important it
+is to have a Definition of what done actually means. We often use the word
+done, but rarely define what it actually means.&lt;/p&gt;
+
+&lt;p&gt;Is a feature done when it compiles?  When it is integrated?  When it can run
+successfully?  When you have 87.3% code coverage?  All of these are possible
+interpretations of the same phrase.&lt;/p&gt;
+
+&lt;p&gt;It’s important for the whole team to have a shared idea of where the finishing
+is. Without that some will claim success and other defeat while talking about
+the same thing. So where do you begin? First, talk about it; it should be a
+collaborative exercise to define it. Most often you will find the ideas
+varies, try to at least find a level everyone can agree to, if not you will
+easily end up in “almost done” mode again.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Sep 2008 14:23:02 +0200</pubDate>
+        <link>http://refactor.se/agile/2008/09/30/when-is-done-really-done/</link>
+        <guid isPermaLink="true">http://refactor.se/agile/2008/09/30/when-is-done-really-done/</guid>
+        
+        
+        <category>agile</category>
+        
+      </item>
+    
+      <item>
+        <title>Gafter to Microsoft..</title>
+        <description>&lt;p&gt;Initially I found it hard to Believe, but it appears to be true that Neal
+Gafter one of the Java-rock star has joined Microsot. I wonder what this means
+to his Closures proposal.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/gafter&quot;&gt;Twitter&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“working on Microsoft Visual Studio Managed Languages with Anders Hejlsberg,
+on C# and other languages. “&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Also confirmed by the latest Java Posse podcast (#208)&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Sep 2008 15:27:55 +0200</pubDate>
+        <link>http://refactor.se/general/java/2008/09/29/gafter-to-microsoft/</link>
+        <guid isPermaLink="true">http://refactor.se/general/java/2008/09/29/gafter-to-microsoft/</guid>
+        
+        
+        <category>general</category>
+        
+        <category>java</category>
+        
+      </item>
+    
+      <item>
+        <title>IntelliJ IDEA 8 Milestone 1</title>
+        <description>&lt;p&gt;Jetbrains announced a milestone release for my favorite IDE a couple of days
+ago, and the feature list is quite impressing. I have been running the
+milestone for a couple of days and so far it’s running great. The SEAM support
+is a winner for me, as the Spring 2.5 support (although it worked fine in
+7.0.4 as well)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;JBoss Seam Integration&lt;/li&gt;
+  &lt;li&gt;Javascript/Flex Debugger&lt;/li&gt;
+  &lt;li&gt;Spring 2.5&lt;/li&gt;
+  &lt;li&gt;FreeMarker, Velocity, GWT 1.5&lt;/li&gt;
+  &lt;li&gt;Great support for REST WebServices&lt;/li&gt;
+  &lt;li&gt;Struts 2&lt;/li&gt;
+  &lt;li&gt;Multi-dialect SQL Console&lt;/li&gt;
+  &lt;li&gt;Reworked project configuration&lt;/li&gt;
+  &lt;li&gt;New automated refactorings&lt;/li&gt;
+  &lt;li&gt;Improved coding assistance&lt;/li&gt;
+  &lt;li&gt;Numerous new code inspections&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Countless other new features and improvements
+And planned features for the full version&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Team Foundation Server integration&lt;/li&gt;
+  &lt;li&gt;New Java refactorings from former Refactor-J&lt;/li&gt;
+  &lt;li&gt;Improved Groovy support, with Grails 1.0.3 and new refactorings&lt;/li&gt;
+  &lt;li&gt;Improved Ruby support, with Ruby debugger&lt;/li&gt;
+  &lt;li&gt;Scala support&lt;/li&gt;
+  &lt;li&gt;Python support&lt;/li&gt;
+  &lt;li&gt;Flexible settings storage with IntelliJ IDEA Server
+Check out the fresh release at &lt;a href=&quot;http://www.jetbrains.com/idea/nextversion?ij8m1an&quot;&gt;http://www.jetbrains.com/idea/nextversion?ij8m
+1an&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 14 Aug 2008 11:26:12 +0200</pubDate>
+        <link>http://refactor.se/ide,%20idea/2008/08/14/intellij-idea-8-milestone-1/</link>
+        <guid isPermaLink="true">http://refactor.se/ide,%20idea/2008/08/14/intellij-idea-8-milestone-1/</guid>
+        
+        
+        <category>ide, idea</category>
+        
+      </item>
+    
+      <item>
+        <title>IntelliJ &amp; Spaces, a fix (kind off)</title>
+        <description>&lt;p&gt;This isn’t exactly new, but some java-apps seem to have problems with Spaces
+in Leopard, i.e. not changing to the correct spaces when switching program.&lt;/p&gt;
+
+&lt;p&gt;I found a pretty easy solution, simply open the help window and put it behind
+the main IDEA window, spaces works fine (although this is kind of hacky).&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 01 Jul 2008 07:49:19 +0200</pubDate>
+        <link>http://refactor.se/ide,%20idea/java/mac%20osx/2008/07/01/intellij-spaces-a-fix-kind-off/</link>
+        <guid isPermaLink="true">http://refactor.se/ide,%20idea/java/mac%20osx/2008/07/01/intellij-spaces-a-fix-kind-off/</guid>
+        
+        
+        <category>ide, idea</category>
+        
+        <category>java</category>
+        
+        <category>mac osx</category>
+        
+      </item>
+    
+      <item>
+        <title>JavaOne 2008 presentations</title>
+        <description>&lt;p&gt;The presentations from this years JavaOne is now online at SDN. Download/view
+them
+&lt;a href=&quot;http://developers.sun.com/learning/javaoneonline/j1online.jsp?yr=2008&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 30 May 2008 14:18:58 +0200</pubDate>
+        <link>http://refactor.se/java/2008/05/30/javaone-2008-presentations/</link>
+        <guid isPermaLink="true">http://refactor.se/java/2008/05/30/javaone-2008-presentations/</guid>
+        
+        <category>javaone</category>
+        
+        
+        <category>java</category>
+        
+      </item>
+    
+      <item>
+        <title>Finally there...</title>
+        <description>&lt;p&gt;At last we arrived to San Francisco and this years installation of &lt;a href=&quot;http://java.sun.com/javaone/sf/index.jsp&quot;&gt;Java
+One&lt;/a&gt;, the flight over meant a
+dreaded stop at &lt;a href=&quot;http://en.wikipedia.org/wiki/Heathrow_Terminal_5_station&quot;&gt;Heathrow terminal
+&lt;/a&gt;5, all in all a
+quite terrible experience but to our surprise the bags arrived safely. The
+weather is pretty cold and chilly winds (especially considering that we spent
+3 wonderful sunny and war days in
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Gellért_Baths&quot;&gt;Budapest&lt;/a&gt; before heading over);
+hopefully it will get better tomorrow.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 May 2008 04:06:17 +0200</pubDate>
+        <link>http://refactor.se/java/2008/05/05/finally-there/</link>
+        <guid isPermaLink="true">http://refactor.se/java/2008/05/05/finally-there/</guid>
+        
+        <category>javaone</category>
+        
+        
+        <category>java</category>
+        
+      </item>
+    
+      <item>
+        <title>Apple seeds JDK 6 to testers</title>
+        <description>&lt;p&gt;Finally, after months of silence something about the JDK6 for OS X has
+surfaced. According to &lt;a href=&quot;http://www.macrumors.com/2007/12/18
+/apple-seeds-mac-os-x-10-5-2-and-java-se-6-preview-8-for-leopard/&quot;&gt;Macrumors.com&lt;/a&gt; apple
+seeded Java SE 6 Preview 8 for Leopard yesterday evening. According to the
+report it’s Java SE 6 version 1.6.0_01, and apparently requires a 64-bit
+capable Intel-mac. So there is still room for ranting about the support for
+PPC platform.&lt;/p&gt;
+
+&lt;p&gt;I for one think it’s wonderful news to get support for JDK6, not so much for
+development purposes but for the improved performance and some random goodies
+included in the JDK.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt; Apparently Apple also made &lt;a href=&quot;http://developer.apple.com/java/&quot;&gt;Java SE 6 Developer Preview 8&lt;/a&gt; available from the ADC site today. Go grab it, and stop complaining..&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 19 Dec 2007 08:09:07 +0100</pubDate>
+        <link>http://refactor.se/java/mac%20osx/2007/12/19/apple-seeds-jdk-6-to-testers/</link>
+        <guid isPermaLink="true">http://refactor.se/java/mac%20osx/2007/12/19/apple-seeds-jdk-6-to-testers/</guid>
+        
+        
+        <category>java</category>
+        
+        <category>mac osx</category>
         
       </item>
     
