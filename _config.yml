@@ -1,0 +1,16 @@
+# Site settings
+title: refactor
+email: conny.lundgren@gmail.com
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://refactor.se"
+twitter_username: connylundgren
+github_username:  connylundgren
+facebook_username:  lundgren.conny
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
